@@ -1,7 +1,25 @@
-- His Name : Matin
-- He Was Born In : 2012
-- His Interests : Computer|Games
-- His Nationality : IR/Iran
-- His Crush : NoOne
-- Marital Status : Single
-- Nothing Just a Line
+# 👋 Hi, I'm Matin
+
+Welcome to my GitHub profile!
+
+```yaml
+Name:             Matin
+Born:             2012
+Nationality:      🇮🇷 Iranian
+Marital Status:   Single
+Crush:            No One 😄
+Interests:
+  - 💻 Computers
+  - 🎮 Gaming
+```
+
+## 🚀 About Me
+
+- 💻 I enjoy learning about computers and technology.
+- 🎮 I like playing and exploring video games.
+- 🌱 I'm always trying to learn something new.
+- ⚡ I enjoy building projects and improving my programming skills.
+
+---
+
+> *"Nothing... just a line."* ✨
