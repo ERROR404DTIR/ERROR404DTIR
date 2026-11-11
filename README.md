@@ -12,8 +12,6 @@
 <a href="https://github.com/ERROR404DTIR">
   <img src="https://img.shields.io/badge/GitHub-ERROR404DTIR-181825?style=for-the-badge&logo=github&logoColor=white" />
 </a>
-<img src="https://komarev.com/ghpvc/?username=ERROR404DTIR&label=Profile%20Views&color=cba6f7&style=for-the-badge" />
-
 </div>
 
 ---
