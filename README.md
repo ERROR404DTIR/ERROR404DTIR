@@ -1,5 +1,7 @@
 <div align="center">
 
+<p align="center"><img src="assets/readme-banner.svg" alt="Animated ERROR404DTIR profile banner" width="100%"></p>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:89B4FA,100:CBA6F7&height=180&section=header&text=Matin%20%7C%20ERROR404DT&fontSize=38&fontColor=11111B&fontAlignY=38&desc=Full-Spectrum%20Developer&descSize=16&descAlignY=58" width="100%" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=1000&color=89B4FA&center=true&vCenter=true&width=600&lines=Full-Spectrum+Developer;Linux+Enthusiast;Building+Things+That+Matter;Always+Learning%2C+Always+Creating" alt="Typing SVG" />
@@ -16,22 +18,22 @@
 
 ---
 
-## 🧠 About Me
+##  About Me
 
 I'm Matin, a technology enthusiast who enjoys exploring computers, software, and the world of programming.
 
-- 💻 Interested in software development and computer science
-- 🐧 Linux enthusiast who loves exploring and customizing it
-- 🛠️ Building tools, applications, and practical solutions
-- 🎮 Gaming enthusiast
-- 🚀 Always experimenting with new technologies and ideas
-- 🎯 Focused on learning, improving, and creating meaningful projects
+-  Interested in software development and computer science
+-  Linux enthusiast who loves exploring and customizing it
+- ️ Building tools, applications, and practical solutions
+-  Gaming enthusiast
+-  Always experimenting with new technologies and ideas
+-  Focused on learning, improving, and creating meaningful projects
 
 ---
 
-## ⚡ Tech Stack & Tools
+##  Tech Stack & Tools
 
-### 🧑‍💻 Languages
+### ‍ Languages
 
 <div align="center">
 <table>
@@ -44,7 +46,7 @@ I'm Matin, a technology enthusiast who enjoys exploring computers, software, and
 </table>
 </div>
 
-### 🌐 Web
+###  Web
 
 <div align="center">
 <table>
@@ -57,7 +59,7 @@ I'm Matin, a technology enthusiast who enjoys exploring computers, software, and
 </table>
 </div>
 
-### 🗄️ Databases
+### ️ Databases
 
 <div align="center">
 <table>
@@ -68,7 +70,7 @@ I'm Matin, a technology enthusiast who enjoys exploring computers, software, and
 </table>
 </div>
 
-### 🛠️ Tools & Platforms
+### ️ Tools & Platforms
 
 <div align="center">
 <table>
@@ -85,7 +87,7 @@ I'm Matin, a technology enthusiast who enjoys exploring computers, software, and
 
 ---
 
-## 📊 GitHub Statistics
+##  GitHub Statistics
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=ERROR404DTIR&show_icons=true&theme=catppuccin_mocha&hide_border=true&count_private=true" />
@@ -96,7 +98,7 @@ I'm Matin, a technology enthusiast who enjoys exploring computers, software, and
 
 ---
 
-## 🌐 Find Me
+##  Find Me
 
 <div align="center">
   <a href="https://error404dt.ir">
@@ -110,7 +112,7 @@ I'm Matin, a technology enthusiast who enjoys exploring computers, software, and
 <br/>
 
 <div align="center">
-  <i>"Nothing... just a line."</i> ✨
+  <i>"Nothing... just a line."</i> 
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:CBA6F7,100:89B4FA&height=100&section=footer" width="100%" />
